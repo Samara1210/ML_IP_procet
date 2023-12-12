@@ -14,3 +14,5 @@ matplotlib
 keras
 tensorflow
 scikit-learn   
+
+Environment:  JUPYTER
